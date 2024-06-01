@@ -1,0 +1,23 @@
+.card {
+    padding: 45px;
+    color: #fff;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    width: 500px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    box-shadow: 2px 15px 20px rgba(0, 0, 0, 0.4);
+    z-index: 1000;
+}
+
+@media (max-width: 520px) {
+    .card {
+        width: 90%;
+        padding: 30px;
+    }
+}

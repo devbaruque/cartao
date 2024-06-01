@@ -1,0 +1,21 @@
+.button {
+    background: #022900;
+    padding: 15px 0;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: 5px 20px 30px rgba(0, 0, 0, 0.4);
+    transition: all .5s ease-in-out;
+    width: 100%;
+}
+
+.button:hover {
+    opacity: .85;
+}
+
+@media (max-width: 520px) {
+    .button {
+        padding: 10px 0;
+        box-shadow: 5px 20px 30px rgba(0, 0, 0, 0.4);
+    }
+}
