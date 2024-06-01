@@ -15,10 +15,10 @@ function App() {
         <Button link={"http://t.me/Dev404notfound"}>
         Telegram
         </Button>
-        <Button link={"ttps://discord.gg/XrYvCbEEh"}>
+        <Button link={"https://discord.gg/XrYvCbEEh"}>
         Discord
         </Button>
-        <Button link={""}>
+        <Button link={"https://github.com/devbaruque"}>
         GitHub
         </Button>
         <Button link={""}>
