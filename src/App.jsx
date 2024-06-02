@@ -12,6 +12,9 @@ function App() {
         <Button link={"https://wa.me/+5516993096286"}>
         Whatsapp
         </Button>
+        <Button link={"https://www.instagram.com/dev.baruque?igsh=aWk0N204b2JybHpz"}>
+        Instagram
+        </Button>
         <Button link={"http://t.me/Dev404notfound"}>
         Telegram
         </Button>
