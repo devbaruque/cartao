@@ -15,7 +15,7 @@
     z-index: 1000;
 }
 
-@media (max-width: 520px) {
+@media (min-width: 520px) {
     .card {
         width: 90%;
         padding: 30px;
