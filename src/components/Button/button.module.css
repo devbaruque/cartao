@@ -13,7 +13,7 @@
     opacity: .85;
 }
 
-@media (min-width: 520px) {
+@media (max-width: 520px) {
     .button {
         padding: 10px 0;
         box-shadow: 5px 20px 30px rgba(0, 0, 0, 0.4);
