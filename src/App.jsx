@@ -24,8 +24,8 @@ function App() {
         <Button link={"https://github.com/devbaruque"}>
         GitHub
         </Button>
-        <Button link={""}>
-       LinkedIn
+        <Button link={"https://biblia-two.vercel.app/"}>
+       I.A Bíblico
         </Button>
         <Cop />
       </Card>
